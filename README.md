@@ -1,3 +1,141 @@
+# Internship Project: Web Application for Data Analysis and Visualization
+
+## Project Overview
+During my internship from May 20, 2024, to June 20, 2024, I developed a web application that allows users to upload datasets via Excel or CSV files and perform data analysis and visualization through a graphical interface. Below is a detailed day-by-day account of my activities and progress throughout the internship.
+
+## Daily Tasks
+
+### Week 1: Research and Planning 📝
+#### Day 1: Monday, 20/05/24
+- Introduction to the team and overview of the internship goals.
+- Setup of development environment and necessary tools.
+- Initial brainstorming session for the project.
+
+#### Day 2: Tuesday, 21/05/24
+- Research on current UI/UX trends and best practices.
+- Started wireframing the initial design for the project.
+- Team meeting to discuss the wireframes and gather feedback.
+
+#### Day 3: Wednesday, 22/05/24
+- Refined wireframes based on team feedback.
+- Began prototyping using Figma.
+- Participated in a design critique session.
+
+#### Day 4: Thursday, 23/05/24
+- Continued working on the prototype.
+- Conducted user research to gather insights for the design.
+- Documented research findings and shared them with the team.
+
+#### Day 5: Friday, 24/05/24
+- Finalized the prototype.
+- Presented the prototype to the team and received feedback.
+- Planned the next steps for the project.
+
+### Week 2: Data Handling and Visualization 📊
+#### Day 6: Monday, 27/05/24
+- Introduction to the data handling and visualization project.
+- Research on best practices for data visualization.
+- Started sketching wireframes for data upload and visualization interfaces.
+
+#### Day 7: Tuesday, 28/05/24
+- Created detailed wireframes for data upload and visualization pages.
+- Team meeting to review wireframes and discuss user flow.
+- Incorporated feedback and began low-fidelity prototyping in Figma.
+
+#### Day 8: Wednesday, 29/05/24
+- Continued working on the low-fidelity prototype.
+- Conducted usability testing with a small group of users.
+- Documented feedback and identified areas for improvement.
+
+#### Day 9: Thursday, 30/05/24
+- Revised the prototype based on usability testing feedback.
+- Began designing high-fidelity mockups in Figma.
+- Participated in a design review meeting.
+
+#### Day 10: Friday, 31/05/24
+- Finalized high-fidelity mockups for data upload and visualization pages.
+- Presented the final designs to the team for feedback.
+- Prepared for the next phase: implementation.
+
+### Week 3: User Interface and Interactivity 🖥️
+#### Day 11: Monday, 03/06/24
+- Introduction to the UI and interactivity project.
+- Research on effective UI design and user interactivity.
+- Started sketching wireframes for the user interface.
+
+#### Day 12: Tuesday, 04/06/24
+- Created detailed wireframes for the user interface.
+- Team meeting to review wireframes and gather feedback.
+- Began low-fidelity prototyping in Figma.
+
+#### Day 13: Wednesday, 05/06/24
+- Continued working on the low-fidelity prototype.
+- Conducted a design critique session with the team.
+- Incorporated feedback and made necessary adjustments.
+
+#### Day 14: Thursday, 06/06/24
+- Began designing high-fidelity mockups for the user interface.
+- Added visual elements such as images and icons.
+- Conducted usability testing with potential users.
+
+#### Day 15: Friday, 07/06/24
+- Finalized high-fidelity mockups for the user interface.
+- Presented the final designs to the team for approval.
+- Prepared for the next phase: integration.
+
+### Week 4: Finalize and Deploy 🚀
+#### Day 16: Monday, 10/06/24
+- Introduction to the finalization and deployment phase.
+- Setup of deployment environment and tools.
+- Conducted code reviews and made final adjustments.
+
+#### Day 17: Tuesday, 11/06/24
+- Continued finalizing the codebase.
+- Conducted thorough testing to ensure functionality.
+- Documented the deployment process.
+
+#### Day 18: Wednesday, 12/06/24
+- Deployed the web application to the production environment.
+- Conducted a final round of usability testing.
+- Fixed any last-minute issues identified during testing.
+
+#### Day 19: Thursday, 13/06/24
+- Conducted a post-deployment review with the team.
+- Documented the project's development process and outcomes.
+- Prepared a final presentation for stakeholders.
+
+#### Day 20: Friday, 14/06/24
+- Presented the final project to stakeholders and received feedback.
+- Reflected on the internship experience and identified key learnings.
+- Wrapped up the internship and said goodbyes to the team.
+
+## Weekly Summaries
+
+### Week 1 Summary 📝
+This week focused on settling into the new environment, understanding the team dynamics, and beginning the initial project. Key accomplishments included setting up the development environment, starting the initial design phase, and conducting user research.
+
+### Week 2 Summary 📊
+This week was dedicated to designing and prototyping the data handling and visualization features. Key tasks included wireframing, prototyping, and conducting usability testing. The final high-fidelity mockups were well-received by the team, and the project was successfully completed on schedule.
+
+### Week 3 Summary 🖥️
+The focus this week was on designing the user interface and enhancing interactivity. The process involved researching effective UI designs, creating wireframes and prototypes, and conducting usability tests. The final design was visually appealing and user-friendly, meeting the project's objectives.
+
+### Week 4 Summary 🚀
+This week centered around finalizing the project and deploying the web application. Key activities included final code adjustments, thorough testing, and deployment. The project was successfully launched, and the feedback from stakeholders was positive.
+
+### Week 5 Summary 🔍
+(Provide a summary of Week 5)
+
+
+
+
+
+
+
+
+
+
+
 # Visuverse - Data Analysis and Visualization-WebApp
 
 ## What is VisuVerse?
